@@ -10,7 +10,7 @@
 #endif
 
 //Definindo nome para os pinos de entrada, onde ficam os botões 
-#define pino2 A5   /*  pedal patch1 */ 
+#define pino2 2   /*  pedal patch1 */ 
 #define pino3 3   /*  pedal patch2 */
 #define pino4 4   /*  pedal patch3 */
 #define pino5 5   /*  pedal patch4 */
