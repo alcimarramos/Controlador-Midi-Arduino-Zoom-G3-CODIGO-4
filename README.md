@@ -1,8 +1,7 @@
 # Controlador Midi Arduino Para Pedaleira ZOOM G3
-# CÓDIGO 1 - 10 Presets Bank UP e Down
-Controlador com <b>10 Pedais</b> para acessar <b>10 Patches</b>.<br>
-O Pedal <b>5</b> também tem a função de <b>Bank Down</b> se pressionado por 1 segundo.<br>
-O Pedal <b>10</b> também tem a função de <b>Bank Up</b> se pressionado por 1 segundo.<br>
+# CÓDIGO 4 - 10 Presets e Modo Stomp
+Controlador com <b>10 Pedais</b> para acessar <b>20 Patches</b>.<br>
+
 <br>
 <b>LISTA DE MATERIAIS:</b><br>
 1 Arduíno UNO<br>
@@ -18,10 +17,10 @@ Todo o esquema de ligação das chaves e leds estão bem detalhadas nas imagens.
 <br>
 <p><a href="https://youtu.be/XyXns0vm2Yk"><b> ** VÍDEO DE DEMONSTRAÇÃO DO FUNCIONAMENTO ** </b></a></p>
 <br>
-<img width=698 height=661 src="ESQUEMA%20DE%20LIGAÇÃO%20DOS%20PEDAIS.jpg">
+<img width=698 height=661 src="ESQUEMA%20DE%20LIGAÇÃO%20DOS%20PEDAIS_st.jpg">
 <br>
 <br>
-<img width=855 height=478 src="ESQUEMA%20DE%20LIGAÇÃO%20DOS%20LEDs.jpg">
+<img width=855 height=478 src="ESQUEMA%20DE%20LIGAÇÃO%20DOS%20LEDs_st.jpg">
 <br>
 <br>
 <img width=837 height=385 src="IMG_20221213_225013941.jpg">
