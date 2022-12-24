@@ -1,4 +1,4 @@
-# Controlador Midi Arduino Para Pedaleira ZOOM G3
+# Controlador Midi Arduino Para Pedaleira ZOOM G3 - Cod.4
 # CÓDIGO 4 - 10 Presets e Modo Stomp
 Controlador com <b>10 Pedais</b> para acessar <b>20 Patches</b>.<br>
 
