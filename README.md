@@ -2,8 +2,8 @@
 # CÓDIGO 4 - 10 Presets e Modo Stomp
 Controlador com <b>10</b> Pedais<br>
 <b>5 Patches</b> nos pedais de baixo.<br>
-Pedais de cima <b>Ativa/Desativa</b> 5 primeiros efeitos da cadeia.
-
+Pedais de cima <b>Ativa/Desativa</b> 5 primeiros efeitos da cadeia.<br>
+Usei LEDs programáveis, pela opção de poder usar os 10 em uma única porta Digital do Arduíno, pois com LEDs comuns não daria pra realizar o projeto no UNO.<br>
 <br>
 <b>LISTA DE MATERIAIS:</b><br>
 1 Arduíno UNO<br>
